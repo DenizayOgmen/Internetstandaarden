@@ -1,6 +1,6 @@
 /* 
 ===================
-GENERAL （￣ε￣ʃƪ）
+GENERAL （彡໒(⊙ᴗ⊙)७彡）
 =================== 
 */
 
@@ -25,6 +25,12 @@ p, a, li {
     width: 150px;
     cursor: pointer;
 }
+
+/**
+    ===================
+    NAVBAR ಥ‿ಥ
+    ===================
+*/
 
 nav {
     position: relative;
@@ -62,6 +68,12 @@ nav ul li a:active{
     color: rgb(101, 71, 24);
 }
 
+/**
+    ===================
+    FOOTER ┌( ಠ‿ಠ )┘
+    ===================
+*/
+
 footer {
     display: flex;
     gap: 5em;
@@ -89,6 +101,12 @@ footer a:visited {
     color: rgb(193, 152, 87);
 }
 
+/**
+    ===================
+    ANIMATION ~( °٢° )~
+    ===================
+*/
+
 .animation {
     right: 20px;
     bottom: 20px;
@@ -107,7 +125,7 @@ footer a:visited {
 
 /**
     ===================
-    HERO (⌐■_■)
+    HERO ¯\_(ツ)_/¯
     ===================
 */
 
